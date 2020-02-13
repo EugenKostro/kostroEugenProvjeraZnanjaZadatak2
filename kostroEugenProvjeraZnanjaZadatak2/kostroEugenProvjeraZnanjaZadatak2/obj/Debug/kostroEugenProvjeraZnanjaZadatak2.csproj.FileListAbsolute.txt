@@ -1,0 +1,7 @@
+C:\Users\Učenik 12\source\repos\kostroEugenProvjeraZnanjaZadatak2\kostroEugenProvjeraZnanjaZadatak2\obj\Debug\kostroEugenProvjeraZnanjaZadatak2.csprojAssemblyReference.cache
+C:\Users\Učenik 12\source\repos\kostroEugenProvjeraZnanjaZadatak2\kostroEugenProvjeraZnanjaZadatak2\obj\Debug\kostroEugenProvjeraZnanjaZadatak2.csproj.CoreCompileInputs.cache
+C:\Users\Učenik 12\source\repos\kostroEugenProvjeraZnanjaZadatak2\kostroEugenProvjeraZnanjaZadatak2\bin\Debug\kostroEugenProvjeraZnanjaZadatak2.exe.config
+C:\Users\Učenik 12\source\repos\kostroEugenProvjeraZnanjaZadatak2\kostroEugenProvjeraZnanjaZadatak2\bin\Debug\kostroEugenProvjeraZnanjaZadatak2.exe
+C:\Users\Učenik 12\source\repos\kostroEugenProvjeraZnanjaZadatak2\kostroEugenProvjeraZnanjaZadatak2\bin\Debug\kostroEugenProvjeraZnanjaZadatak2.pdb
+C:\Users\Učenik 12\source\repos\kostroEugenProvjeraZnanjaZadatak2\kostroEugenProvjeraZnanjaZadatak2\obj\Debug\kostroEugenProvjeraZnanjaZadatak2.exe
+C:\Users\Učenik 12\source\repos\kostroEugenProvjeraZnanjaZadatak2\kostroEugenProvjeraZnanjaZadatak2\obj\Debug\kostroEugenProvjeraZnanjaZadatak2.pdb
